@@ -175,18 +175,6 @@
       - HashTable vs HashMap vs LinkedHashMap vs TreeMap
       - HashMap vs ConcurrentHashMap
 
-## :pushpin: Design Pattern
-
-- 생성패턴
-   - 팩토리 메소드
-   - 싱글톤
-- 구조패턴
-   - 데코레이터
-   - 프록시
-   - 어댑터
-- 행위패턴
-   - 옵저버
-   - 템플릿 메소드
 
 ## :pushpin: Spring
 
@@ -231,14 +219,3 @@
    - SpringBoot 계층별 테스트 방법
    - 테스트 커버리지 (JACOCO)
    - 
-## :pushpin: 기타
-
-- 어노테이션
-- POJO
-- jar vs war
-- Maven vs Gradle
-- Spring Security
-- Spring Resolver
-- Spring Async
-- 플랫폼, 프레임워크, 라이브러리 차이점
-- Git을 쓰는 이유와 깃과 깃허브의 차이점
