@@ -12,6 +12,6 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1713](https://www.acmicpc.net/problem/1713) | [후보 추천하기](https://www.acmicpc.net/problem/1713) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
 
-123123
+12312345
 
 <br> <br> <br>
